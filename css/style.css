@@ -209,7 +209,7 @@ background-color: #bdd2e1;}
     margin: 10px 6px;
 }
 .contact-image {
-    background-image: url('/images/contact\ us.jpg');
+    background-image: url('../images/contact\ us.jpg');
     /* background-size: contain; */
     background-repeat: no-repeat;
     height: 400px;
